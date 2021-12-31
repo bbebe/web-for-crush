@@ -1,17 +1,17 @@
 const textConfig = {
   text1: "He luu cậu!",
-  text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Cậu yêu tớ có phải không nào ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
-  text5: "Cậu mơ à???",
-  text6: "Yêu ơi là yêu <3",
-  text7: "lí do cậu thích tớ đi :vvvv",
-  text8: "Gửi cho tớ <3",
-  text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text2: "Tớ có điều này muốn nói với cậu!",
+  text3: "cậu đã sẵn sàng nghe chưa",
+  text4: "",
+  text5: "chưa",
+  text6: "rồi !",
+  text7: "2021 của cậu thế nào",
+  text8: "gửi cho cậu",
+  text9: "tớ đã cố gắng rất nhiều",
+  text10: "tớ biết mà",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
-  text12: "Okii lunn <3",
+    "2021 dù có thế nào thì cậu đã vất vả nhiều rồi! Cảm ơn cậu rất nhiều vì đã ở cùng Fercaline trong năm 2021 đầy sóng gió. Chúc cậu một 2022 thật là vui vẻ và hạnh phúc nha! ",
+  text12: "tớ sẽ cố gắng",
 };
 
 $(document).ready(function () {
